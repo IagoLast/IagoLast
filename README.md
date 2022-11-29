@@ -5,7 +5,7 @@ My name is Iago Lastra Rodríguez, I'm a frontend developer from [Pontevedra](ht
 - 🔭 I’m currently working on: Apto Payments
 - 🌱 I’m currently learning: Bioinformatics and biostatistics.
 - 👯 I’m looking to collaborate on: Some research projects! Antything related to health.
-- 💬 Ask me about: Frontend stuff and testing
+- 💬 Ask me about: Frontend stuff, testing, software architecture and algorithms
 - 📫 How to reach me: @iagolast
 - 😄 Pronouns: (he/him)
 - ⚡ Fun fact: I have 11 flatmates :stuck_out_tongue_closed_eyes:
